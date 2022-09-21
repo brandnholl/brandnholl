@@ -1,8 +1,6 @@
 
 <h2>Hi :wave: I'm Brandon</h2>
 
-<img align='right' src="https://spotify-github-profile.vercel.app/api/view?uid=b.holland2021&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true">
-
 <img align='right' src="https://lanyard.cnrad.dev/api/577992720057106444">
 
 <p><samp>
