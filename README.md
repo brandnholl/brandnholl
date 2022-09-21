@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**brandnholl/brandnholl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Hi :wave: I'm Brandon</h2>
 
-Here are some ideas to get you started:
+<img align='right' src="https://spotify-github-profile.vercel.app/api/view?uid=b.holland2021&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><samp>
+  Good at violin. <br>
+  Shit at coding. <br> 
+  Interested in electrical engineering.
+</samp></p>
+
+
+<h3>Contact:</h3>
+
+[<kbd>![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</kbd>](https://discord.com/users/577992720057106444)
+
+
+
