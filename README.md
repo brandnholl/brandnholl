@@ -13,6 +13,7 @@
 <h3>Contact:</h3>
 
 [<kbd>![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</kbd>](https://discord.com/users/577992720057106444)
+[<kbd>![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</kbd>](https://www.linkedin.com/in/brandonholland/)
 
 
 
