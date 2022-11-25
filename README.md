@@ -4,7 +4,6 @@
 <img align='right' src="https://lanyard.cnrad.dev/api/577992720057106444">
 
 <p><samp>
-  Good at violin. <br>
   Shit at coding. <br> 
   Interested in electrical engineering.
 </samp></p>
